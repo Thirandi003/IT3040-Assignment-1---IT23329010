@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IT3040 - Assignment 1: Transliteration Accuracy Testing
 
 ## Overview
@@ -30,3 +31,6 @@ py IT23334106_test_automation.py --excel "IT23334106_Test cases.xlsx" --url "htt
 - `IT23334106_Test cases.xlsx` - Test cases with results
 - `requirements.txt` - Python dependencies
 - `Repository_Link.txt` - GitHub repository link
+=======
+# IT3040-Assignment-1---IT23329010
+>>>>>>> e1cf14873ac21a44983db6e763b2494a72314dfc
