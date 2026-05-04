@@ -22,15 +22,7 @@ py -m playwright install
 ## How to Run Tests
 
 ```
-py IT23334106_test_automation.py --excel "IT23334106_Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator" --wait-ms 5000 --type-delay-ms 80 --slow-mo-ms 200 --save-every 1 --keep-open
+python test_automation.py --excel "F:\Assignment_1_Test_cases_New.xlsx" --header-row 1 --input-col "Input" --expected-col "Expected output" --actual-col "Actual output" --status-col "Status" --url "https://www.pixelssuite.com/chat-translator" --wait-ms 5000 --type-delay-ms 80 --slow-mo-ms 200 --save-every 1
 ```
 
-## Files
 
-- `IT23334106_test_automation.py` - Playwright automation script
-- `IT23334106_Test cases.xlsx` - Test cases with results
-- `requirements.txt` - Python dependencies
-- `Repository_Link.txt` - GitHub repository link
-=======
-# IT3040-Assignment-1---IT23329010
->>>>>>> e1cf14873ac21a44983db6e763b2494a72314dfc
